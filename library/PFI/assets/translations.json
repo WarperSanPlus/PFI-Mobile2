@@ -1,0 +1,112 @@
+{
+    "en": {
+        "label_connection": "Sign in",
+        "placeholder_username": "Username",
+        "placeholder_password": "Password",
+        "button_connection": "LOGIN",
+
+        "label_shop": "Shop",
+        "label_stores": "Stores",
+        "label_about": "About",
+
+        "label_current_pos": "You are here!",
+
+        "label_app_by": "Application by",
+        "label_and": "and",
+
+        "label_details": "Details",
+        "label_description": "Description",
+        "label_out_of_stock": "Out of stock",
+        "label_add_cart": "Add to cart",
+        
+        "label_cart": "Cart",
+
+        "label_total_cart": "Total of the cart",
+
+        "label_remove_cart": "Remove",
+        "popup_remove_cart": "Do you really want to remove this product from your cart?",
+        "option_remove_cart_confirm": "Remove",
+
+        "label_clear_cart": "Clear cart",
+        "popup_clear_cart": "Do you really want to clear your cart?",
+        "option_clear_cart_confirm": "Clear",
+        "label_empty_cart": "Your cart is empty",
+
+        "label_buy_cart": "Purchase",
+        "popup_buy_cart": "Do you really want to confirm your purchases?",
+        "option_buy_cart_confirm": "Purchase",
+        
+        "popup_delete_product": "Do you really want to delete this product?",
+        "option_delete_product_confirm": "Delete",
+
+        "option_cancel": "Cancel",
+
+        "popup_deconnection": "Do you really want to sign out?",
+        "option_deconnection_confirm": "Sign out",
+
+        "label_add_product": "Add product",
+        "label_price": "Price",
+        "label_name": "Name",
+        "placeholder_type": "Choose the type of the product",
+        "button_add_product": "Add",
+
+        "alert_title": "Success",
+        "alert_message_addProduct": "The product was added to the store.",
+        "alert_message_addToCart": "The product was added to your cart."
+    },
+    "fr": {
+        "label_connection": "Se connecter",
+        "placeholder_username": "Identifiant",
+        "placeholder_password": "Mot de passe",
+        "button_connection": "Se connecter",
+
+        "label_shop": "Magasin",
+        "label_stores": "Fournisseurs",
+        "label_about": "À propos",
+
+        "label_current_pos": "Vous êtes ici!",
+
+        "label_app_by": "Application créée par",
+        "label_and": "et",
+
+        "label_details": "Détails",
+        "label_description": "Description",
+        "label_out_of_stock": "Hors stock",
+        "label_add_cart": "Ajouter au panier",
+        
+        "label_cart": "Panier",
+
+        "label_total_cart": "Total du panier",
+
+        "label_remove_cart": "Supprimer",
+        "popup_remove_cart": "Voulez-vous vraiment supprimer ce produit de votre panier?",
+        "option_remove_cart_confirm": "Supprimer",
+
+        "label_clear_cart": "Vider le panier",
+        "popup_clear_cart": "Voulez-vous vraiment vider le contenu du panier?",
+        "option_clear_cart_confirm": "Vider",
+        "label_empty_cart": "Votre panier est vide",
+
+        "label_buy_cart": "Acheter",
+        "popup_buy_cart": "Voulez-vous vraiment acheter le contenu du panier?",
+        "option_buy_cart_confirm": "Acheter",
+        
+        "popup_delete_product": "Voulez-vous vraiment retirer ce produit de la liste",
+        "option_delete_product_confirm": "Confirmer",
+
+        "option_cancel": "Annuler",
+
+        "popup_deconnection": "Voulez-vous vraiment vous déconnecter?",
+        "option_deconnection_confirm": "Confirmer",
+
+        "label_add_product": "Ajouer un produit",
+        "label_price": "Prix",
+        "label_name": "Nom",
+        "placeholder_type": "Choisir le type de produit",
+        "button_add_product": "Ajouter",
+
+        "alert_title": "Succès",
+        "alert_message_addProduct": "Le produit à été ajouté dans le magasin.",
+        "alert_message_addToCart": "Le produit à été ajouté à votre panier."
+    }
+}

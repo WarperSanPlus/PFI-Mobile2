@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Loongese & Leonidas",
+        "coord": {
+            "latitude": 45.56400695373403, 
+            "longitude": -73.72676473121793
+        }
+    },
+    {
+        "name": "MATCHA ZANMAI",
+        "coord": {
+            "latitude": 45.49619596880282,
+            "longitude": -73.57712290933075
+        }
+    },
+    {
+        "name": "@ Matcha",
+        "coord": {
+            "latitude": 45.521132468798946,
+            "longitude": -73.57465385798193
+        }
+    },
+    {
+        "name": "Oishi Bar à Matcha",
+        "coord": {
+            "latitude": 45.542165175850684, 
+            "longitude": -73.59721762517346
+        }
+    },
+    {
+        "name": "MatchaMake.com",
+        "coord": {
+            "latitude": 45.46573023780509, 
+            "longitude": -73.61513717892068
+        }
+    }
+]

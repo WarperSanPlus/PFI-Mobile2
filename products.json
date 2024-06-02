@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Ogura Matcha",
+        "description": "Ogura Matcha est notre matcha de cérémonie de la plus haute qualité. Ce matcha rare est traditionnellement réservé aux cérémonies du thé les plus exclusives. Ce macha spécial et très rare nous vient directement de la plantation de tencha de la région d'Ogura dans la région d'Uji, connue comme l'un des principaux centres de production des plus hautes qualités de matcha et de gyokuro ; Ogura est l'endroit où le Matcha a été cultivé pour la première fois. Ce nouveau Uji Matcha exclusif fabriqué à partir du cultivar Yamanoibuki ; un cultivar très rare dans la production de tencha. Ogura Matcha est la poudre verte la plus fraîche et la plus vibrante qui se transforme en une belle tasse de matcha onctueuse avec une onctuosité brillante et se termine par un arrière-goût net sans aucune amertume. Un excellent choix pour les amateurs de matcha qui recherchent un matcha de véritable qualité. Notre matcha Ogura Uji est mieux préparé sous forme d'usucha (matcha fin).",
+        "price": 1.08,
+        "image": "ogura-matcha.png"
+    },
+    {
+        "name": "Supreme Matcha",
+        "description": "Notre Matcha Suprême est cultivé dans les collines tempérées d'Uji, à la périphérie de Kyoto. Les plants de thé sont ombragés pendant le dernier mois avant la récolte, ce qui produit une couleur verte vibrante et améliore les vitamines A, C et E et les acides aminés naturels. Supreme Matcha offre des bienfaits pour la santé inégalés et est absolument délicieux, avec un arôme sucré complexe et un goût inégalé. Notre Matcha de qualité suprême est un thé savoureux et polyvalent, se prêtant aussi bien au thé Usucha (fin et léger) qu'au thé Koicha (fort et épais). Supreme Matcha est le choix parfait pour la cérémonie traditionnelle du thé, pour épater vos invités lors d'occasions spéciales ou pour un peu de luxe au quotidien !",
+        "price": 0.80,
+        "image": "supreme-matcha.png"
+    },
+    {
+        "name": "Samurai Matcha Ceremonial",
+        "description": "Cueilli à la main de manière traditionnelle par des producteurs de thé qualifiés et expérimentés, notre Samurai Matcha est originaire de la vallée d'Obuku et est l'un des rares thés restants à être cultivé et récolté à la main plutôt que mécaniquement. Cette méthode traditionnelle produit un thé vert distinctif d'une qualité inégalée pour les amateurs de thé exigeants du monde entier. Une fois préparé, le Samurai Matcha offre une tasse onctueuse et moelleuse. Profond en saveur et riche en bienfaits pour la santé, notre Samurai Matcha se prépare sans effort, un moyen facile de profiter des antioxydants, du bêta-carotène et des vitamines. Choix de haute qualité pour du matcha pur, notre thé Samurai Matcha Ceremony est le thé vert parfait à choisir pour les moments où seul le meilleur fera l'affaire !",
+        "price": 0.72,
+        "image": "samurai-matcha-ceremonial.png"
+    },
+    {
+        "name": "Yame Matcha",
+        "description": "Yame Matcha Supreme est une poudre de matcha incroyablement complexe, riche et noisette provenant de la préfecture de Fukuoka au Japon. Yame Matcha Supreme est fabriqué par un maître du thé en utilisant les premières feuilles de 5 variétés différentes de théiers japonais : les buissons Okumidori, Saemidori, Tsuyuhikari, Okuyutaka et Yabukita pour le profil de saveur le plus équilibré et le plus complexe. Le Yame Matcha est fabriqué selon la méthode traditionnelle japonaise, dans laquelle une fois ces feuilles cueillies, elles sont ensuite cuites à la vapeur, séchées et mélangées avant d'être broyées en poudre fine dans un « Usu » traditionnel ou moulin en pierre. La saveur de ce matcha est beurrée et noisette comme le sésame, douce et incroyablement complexe. Yame Matcha Supreme est une poudre de matcha exclusive et vibrante qui se transforme en une belle tasse de matcha onctueuse avec une onctuosité douce, un corps de noisette et une richesse complexe en saveur. C'est un excellent choix pour les amateurs de matcha qui recherchent un matcha de luxe de qualité. Il est préférable de le préparer sous forme d'usucha (matcha fin).",
+        "price": 0.56,
+        "image": "yame-matcha.png"
+    },
+    {
+        "name": "Vanillux Matcha",
+        "description": "Notre pré-mélange Matcha Vanille combine du matcha pur de qualité supérieure avec la richesse de la vanille pure ! Notre touche moderne s'inspire des maisons de thé japonaises branchées avec des bonbons aromatisés au matcha. C'est absolument fabuleux préparé directement en fouettant dans de l'eau chaude, et est carrément indulgent avec du lait chaud ! La saveur crémeuse de la gousse de vanille prend le dessus et le matcha pur persiste en arrière-plan ! Notre Matcha Vanille est édulcoré avec du sucre de canne naturel et ne contient aucun colorant artificiel, conservateur ou additif chimique. Naturellement, notre mélange Matcha Vanille de qualité supérieure est non seulement délicieux mais aussi sain !",
+        "price": 0.40,
+        "image": "vanilla-matcha.png"
+    },
+    {
+        "name": "Matcha Culinaire",
+        "description": "Notre Matcha Culinaire est une poudre de Matcha de qualité inférieure spécialement destinée à tous vos besoins culinaires ! Il est parfait pour la pâtisserie (pensez : cupcakes, pains, gâteaux, soupes) et pour vos boissons mélangées créatives comme les smoothies et les lattes au thé vert ! Le matcha culinaire n'est pas destiné à être bu pur, mais constitue l'ingrédient parfait pour toutes sortes de recettes et de plats japonais. Ce matcha est produit avec des feuilles qui peuvent avoir été cassées ou meurtries avant d'être séchées et moulues. Cela crée une saveur de matcha beaucoup plus forte, ce qui est absolument idéal pour un thé en poudre qui aura une saveur suffisamment forte dans votre produit fini ! Populaire parmi les chefs, ainsi que dans les restaurants de sushi, les cafés et de nombreux autres établissements, le Matcha Culinaire est l'ingrédient aromatisant le thé vert pur parfait !",
+        "price": 0.40,
+        "image": "culinary-matcha.png"
+    },
+    {
+        "name": "Chasen",
+        "description": "Notre fouet à matcha en bambou (ou « Chasen ») est l'outil idéal pour préparer votre thé vert matcha. Il est indispensable dans la cérémonie traditionnelle japonaise du thé (« chanoyu »). Le Matcha est un thé vert japonais unique, moulu sur pierre en une poudre très fine et qui doit être fouetté (et non trempé) dans l'eau avant d'être consommé. Un fouet à matcha vous aide à vivre une expérience unique de la manière traditionnelle du thé, le moyen idéal de profiter de la fine culture japonaise traditionnelle - une pause dans le quotidien.",
+        "price": 16,
+        "image": "chasen-whisk.png"
+    },
+    {
+        "name": "Chashaku",
+        "description": "Notre cuillère à thé en bambou (ou « Chashaku ») est utilisé pour mesurer la poudre de votre thé matcha. Le chashaku est incontournable dans la cérémonie traditionnelle japonaise du thé (chanoyu). Le Matcha est un thé vert japonais unique, moulu sur pierre en une poudre très fine et qui doit être fouetté (et non trempé) dans l'eau avant d'être consommé. Un chashaku simple et élégant vous aide à vivre une expérience unique de la manière traditionnelle du thé, une manière idéale de profiter de la fine culture japonaise traditionnelle.",
+        "price": 4,
+        "image": "chashaku-scoop.png"
+    },
+    {
+        "name": "Tamis",
+        "description": "Il est nécessaire de tamiser votre matcha avant de le fouetter, car il a tendance à s'agglutiner lorsque vous le buvez. Le tamisage est un processus essentiel, et notre tamis manuel à matcha fabriqué au Japon est le moyen le plus pratique et le plus simple de tamiser votre bon matcha ! Notre tamis simple est doté d'une poignée qui vous permet de le placer facilement sur votre bol à matcha pendant que vous ramassez et mesurez votre poudre de matcha. Le Matcha est un thé vert japonais unique, moulu sur pierre en une poudre très fine et qui doit être tamisé et fouetté (et non trempé) dans l'eau avant d'être consommé. Notre outil pratique en fait une synchronisation pour profiter de votre matcha au quotidien.",
+        "price": 8,
+        "image": "sifter.png"
+    },
+    {
+        "name": "Chawan",
+        "description": "Buvez votre matcha de façon traditionelle avec notre bol à matcha en céramique (ou « Chawan »), fabriqué à main au Japon. Le chawan est utilisé pour préparer et fouetter le matcha sans éclaboussures grâce aux haute parois et sa forme cylindré. Il est non seulement résistant à la chaleur mais aussi resistants aux égratignures.",
+        "price": 42,
+        "image": "chawan.png"
+    },
+    {
+        "name": "Kuse Naoshi",
+        "description": "Notre porte-fouet (ou « Kuse Naoshi ») est idéal pour entretenir votre fouet traditionnel en bambou (chasen). La courbe du support pour fouet à matcha conserve la forme de votre fouet et permet également une bonne circulation de l'air pour favoriser le séchage et empêcher la croissance de moisissures. L'utilisation d'un support pour fouet à matcha est un moyen idéal pour prolonger la durée de vie de votre fouet. Le Matcha est un thé vert japonais unique, moulu sur pierre en une poudre très fine et qui doit être tamisé et fouetté (et non trempé) dans l'eau avant d'être consommé. Cet outil pratique permet de savourer votre matcha au quotidien en entretenant votre indispensable fouet en bambou.",
+        "price": 8,
+        "image": "chasen-holder.png"
+    }
+]
